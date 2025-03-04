@@ -1,5 +1,3 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
 ## Laravel CRUD API
 
 This project is a Laravel-based CRUD (Create, Read, Update, Delete) API for managing student records. It leverages Laravel's powerful features to provide a robust and scalable solution for handling student data.
